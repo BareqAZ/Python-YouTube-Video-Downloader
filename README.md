@@ -1,5 +1,5 @@
 # Python YouTube Video Downloader
-Download any video from youtube
+Download any video from youtube using pytube
 
 # Features
 Download videos on mp4 format in 720p with audio<br/>
