@@ -1,11 +1,11 @@
 # Python-YouTube-Video-Downloader
-Python program to download any video from youtube download playlists, entire channels and search for videos inside the program
+Download any video from youtube
 
 # Features
-Download videos on mp4 format in 720p with audio
-Download only the video audio on webm format
-Download all videos of a playlist
-Download all videos from a channel
-Choose the quality: best/worse
-Search for videos inside the program
+Download videos on mp4 format in 720p with audio<br/>
+Download only the video audio on webm format<br/>
+Download all videos of a playlist<br/>
+Download all videos from a channel<br/>
+Choose the quality: best/worse<br/>
+Search for videos inside the program<br/>
 Get the thumbnail from the video
